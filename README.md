@@ -30,7 +30,7 @@ A thrilling arcade game built with Pygame. Guide a pulse of light along a dynami
 - Press **R** to restart after a game over.
 
 ## Support the Project
-Love Pulse Runner? Help fund new features like power-ups, custom tracks, or enhanced visuals! Support me on [GitHub Sponsors](https://github.com/sponsors/your-username).
+Love Pulse Runner? Help fund new features like power-ups, custom tracks, or enhanced visuals! Support me on [GitHub Sponsors](https://github.com/sponsors/vinesscuakenn).
 
 ## Roadmap
 - Add power-ups like speed boosts or shields
